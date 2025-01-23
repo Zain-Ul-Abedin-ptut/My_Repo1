@@ -1,2 +1,1 @@
-# My_Repo1
-This is lab 1 repository.
+cout<<"My name is :"<<"Zain-ul-abedin";
